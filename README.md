@@ -1,7 +1,7 @@
 ### Exercise for Week 1: Coffee Time! ☕🌟
 
 #### Objective:
-Welcome to the first day of your Java bootcamp! Today, you'll get your hands on basic Java concepts like data types, string methods, and conditionals through a fun and simple coffee-themed exercise.
+Today, you'll get your hands on basic Java concepts like data types, string methods, and conditionals through a fun and simple coffee-themed exercise.
 
 #### Background:
 Imagine you're helping to program a digital display for a coffee shop. This display shows different messages based on the coffee type.
