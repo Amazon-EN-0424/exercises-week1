@@ -57,3 +57,39 @@ Learn to use the addition and multiplication operators to estimate the price of 
 1. **Define variables for the number of coffees ordered and the price per cup.**
 2. **Calculate the total cost and print it.**
 
+
+
+#### Exercise 5: Coffee Type Counter
+#### Objective:
+Learn to use a `for` loop to iterate through an array of coffee orders and count how many of each type there are.
+
+#### Instructions:
+1. **Define an array of strings where each element is a type of coffee ordered by customers.**
+2. **Use a `for` loop to iterate through the array and count the number of each type of coffee.**
+3. **Print the counts for Espresso, Latte, and Americano.**
+
+#### Exercise 6: Coffee Replenish Reminder
+#### Objective:
+Use a `while` loop to simulate checking a coffee machine’s stock and remind to replenish if stock goes below a certain threshold.
+
+#### Instructions:
+1. **Start with a certain number of coffee pods.**
+2. **Use a `while` loop to decrease the number of coffee pods as they are used, one at a time.**
+3. **Print a reminder to replenish the pods when only 2 remain.**
+
+#### Exercise 7: Coffee Menu Printer
+#### Objective:
+Demonstrate a `do-while` loop by printing each type of coffee until the end of a list is reached.
+
+#### Instructions:
+1. **Define an array of coffee types like Espresso, Americano, Latte, and Cappuccino.**
+2. **Use a `do-while` loop to print each type until you've gone through the list.**
+
+#### Exercise 8: Coffee Flavor Enhancer
+#### Objective:
+Learn to use a `for-each` loop to iterate through an array of coffee additives and print a message for each.
+
+#### Instructions:
+1. **Define an array of additives such as "vanilla", "caramel", "cinnamon".**
+2. **Use a `for-each` loop to iterate through the array and suggest adding each to a coffee to enhance the flavor.**
+
